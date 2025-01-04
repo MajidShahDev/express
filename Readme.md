@@ -4,6 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
+### Majid Hussain Shah
 ## Table of contents
 
 * [Installation](#Installation)
